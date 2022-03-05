@@ -11,5 +11,5 @@ require 'cuber/commands/run'
 require 'cuber/commands/deploy'
 
 module Cuber
-
+  print "this is an awesome gem"
 end
